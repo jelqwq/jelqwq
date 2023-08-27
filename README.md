@@ -1,6 +1,6 @@
 # Jelqwq
 
-Working on personal website and projects. Much to come :D
+Student. Working on personal website and projects. :D
 
 <!---
 jelqwq/jelqwq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
