@@ -1,6 +1,6 @@
-# Jelqwq
+# Hello there
 
-Student. Working on personal website and projects. :D
+My name is James, nice to meet you!
 
 <!---
 jelqwq/jelqwq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
